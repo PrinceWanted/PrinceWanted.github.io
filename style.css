@@ -6,6 +6,9 @@ select{
     box-sizing: border-box;
     resize: vertical;
   }
+  .formTitle{
+    color: #be1809;
+  }
   #channel{
     width: 100%;
     padding: 12px;
@@ -23,7 +26,7 @@ select{
   
   /* Style the submit button */
   input[type=submit] {
-    background-color: #f51804;
+    background-color: #b81506;
     color: white;
     padding: 12px 20px;
     border: none;
