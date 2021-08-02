@@ -44,6 +44,8 @@ select{
     border-radius: 5px;
     background-color: #f2f2f2;
     padding: 20px;
+    left: 40%;
+    position: absolute;
   }
   
   /* Floating column for labels: 25% width */
@@ -65,7 +67,7 @@ select{
     margin-top: 6px;
   }
   .options{
-    width: 40%;
+    width: 45%;
     display: inline-block;
   }
   
