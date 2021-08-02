@@ -78,7 +78,7 @@ select{
   
   
   @media screen and (max-width: 1000px) {
-    .col-25, .col-75, .col-32, input[type=submit] {
+    .col-25, .col-75, .options, input[type=submit] {
       width: 100%;
       margin-top: 0;
       /* height: 50%; */
